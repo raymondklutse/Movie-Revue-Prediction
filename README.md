@@ -1,0 +1,2 @@
+# Movie Revenue Prediction 
+This project is coming from Kaggle TMDB Box Office Prediction Challenge . As we know, the film industry is booming, we have massive data about films. More and more companies are making films on the purpose of earning money. People expect higher revenue.So, we want to build a model which is able to accurately predict film revenues.
